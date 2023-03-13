@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\SDL_test\SDL_test\Source.cpp(76,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\SDL_test\SDL_test\Source.cpp(78,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\SDL_test\SDL_test\Source.cpp(78,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\SDL_test\SDL_test\Source.cpp(79,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\SDL_test\SDL_test\Source.cpp(79,46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  SDL_test.vcxproj -> C:\Users\User\source\repos\SDL_test\x64\Debug\SDL_test.exe
